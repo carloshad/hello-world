@@ -10,8 +10,8 @@ Just a guy trying to recover lost time learning good things.
 https://guides.github.com/features/mastering-markdown/
 
 Headers
-# This is an <h1> tag
-## This is an <h2> tag
+# This is an "<h1>" tag
+## This is an "<h2>" tag
 ###### This is an <h6> tag
 
 Emphasis
