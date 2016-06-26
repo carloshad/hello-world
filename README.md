@@ -42,8 +42,9 @@ Ordered
    * Item 3b
 
 Images
-![GitHub Logo](/images/github.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/github.png "Alt Text")
+
+[comment]: <> (Format: ![Alt Text](url))
 
 Links
 http://github.com - automatic!
