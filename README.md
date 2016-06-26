@@ -45,7 +45,7 @@ Images
 
 ![GitHub Logo](/images/github.png "Alt Text")
 
-![Alt Text](/images/github.png "text")
+![Alt Text]("text")
 
 [//]: # (Format: ![Alt Text](url))
 
