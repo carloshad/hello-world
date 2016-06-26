@@ -87,4 +87,14 @@ Any word wrapped with two tildes (~~like this~~) will appear crossed out.
 
 GitHub supports emoji! :sparkles: :camel: :boom:
 
-To see a list of every image we support, check out the Emoji Cheat Sheet.
+To see a list of every image we support, check out the Emoji Cheat Sheet: http://www.emoji-cheat-sheet.com
+
+#### Paragraphs and line breaks
+
+You can create a new paragraph by leaving a blank line between lines of text.
+
+#### Ignoring Markdown formatting
+
+You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
