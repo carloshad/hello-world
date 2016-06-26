@@ -42,9 +42,10 @@ Ordered
    * Item 3b
 
 Images
+
 ![GitHub Logo](/images/github.png "Alt Text")
 
-Format: ![Alt Text](/images/github.png "text")
+![Alt Text](/images/github.png "text")
 
 [//]: # (Format: ![Alt Text](url))
 
