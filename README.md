@@ -47,6 +47,12 @@ Images
 
 ![Alt Text]("text")
 
+![Alt Text](text)
+
+![Alt Text]["text"]
+
+![Alt Text][text]
+
 [//]: # (Format: ![Alt Text](url))
 
 Links
