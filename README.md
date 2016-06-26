@@ -44,7 +44,9 @@ Ordered
 Images
 ![GitHub Logo](/images/github.png "Alt Text")
 
-[comment]: <> (Format: ![Alt Text](url))
+[//]: <> (Format: ![Alt Text](url))
+
+[//]: # (Format: ![Alt Text](url))
 
 Links
 http://github.com - automatic!
