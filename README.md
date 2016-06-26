@@ -1,18 +1,22 @@
-# hello-world
+### hello-world
+
 My first repository.
 
-about me
+### about me
 
 Just a guy trying to recover lost time learning good things.
 
-# Markdown
+### Markdown
 
 https://guides.github.com/features/mastering-markdown/
 
 Headers
-# This is an "<h1>" tag
-## This is an "<h2>" tag
-###### This is an <h6> tag
+# This is an "h1" tag
+## This is an "h2" tag
+### This is an "h3" tag
+#### This is an "h4" tag
+##### This is an "h5" tag
+###### This is an "h6" tag
 
 Emphasis
 *This text will be italic*
@@ -38,7 +42,7 @@ Ordered
    * Item 3b
 
 Images
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/github.png)
 Format: ![Alt Text](url)
 
 Links
