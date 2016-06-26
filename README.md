@@ -44,7 +44,7 @@ Ordered
 Images
 ![GitHub Logo](/images/github.png "Alt Text")
 
-[//]: <> (Format: ![Alt Text](url))
+Format: ![Alt Text](/images/github.png "text")
 
 [//]: # (Format: ![Alt Text](url))
 
